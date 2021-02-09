@@ -1,2 +1,3 @@
 # hello-world
-Test stuff yk
+Moooin loide 
+FSM fot the win! 
